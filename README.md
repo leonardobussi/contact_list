@@ -5,9 +5,8 @@
 *  [Configuracao](#configuracoes)
 *  [comando uteis](#uteis)
 
-![Peek_16-12-2020_15-47](/uploads/0bbee24604881dc116d9d6665ef8c50e/Peek_16-12-2020_15-47.gif)
-
-![Peek_16-12-2020_16-02](/uploads/40be2864110215fe9e6d67922ad6625f/Peek_16-12-2020_16-02.gif)
+![Peek 16-12-2020 16-02](https://user-images.githubusercontent.com/54999837/102485623-a1b7d580-4046-11eb-9841-2ec0e1052427.gif)
+![Peek 16-12-2020 15-47](https://user-images.githubusercontent.com/54999837/102485628-a3819900-4046-11eb-8282-edcb2b2645a7.gif)
 
 
 ## Requisitos
@@ -30,7 +29,7 @@ versao usada no projeto `ruby 2.7.2`, `rails 6.0.3.2`, `nodejs 14.15.2` e `yarn 
     * vá até a pasta `config` e abra o arquivo database.yml, dentro de desse arquivo vai ter o bloco de configuração do banco de desenvolvimento, coloque suas credenciais, como no exemplo abaixo.
 
 
-![Captura_de_tela_de_2020-12-16_16-35-00](/uploads/449e3fce1d74c89222ca91b6162e867f/Captura_de_tela_de_2020-12-16_16-35-00.png)
+![Captura de tela de 2020-12-16 16-35-00](https://user-images.githubusercontent.com/54999837/102485631-a41a2f80-4046-11eb-92ef-3d082f6c7756.png)
 
 
 #### Uteis
