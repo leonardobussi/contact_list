@@ -1,0 +1,45 @@
+<style>
+
+footer {
+  margin-top: 45px;
+  padding-top: 5px;
+  
+}
+  a {
+    color: #555;
+  }
+  ul {
+    list-style: none;
+  }
+  li {
+    display: inline;
+      margin-left: 15px;
+    }
+    .just{
+      display: flex;
+      justify-content: space-between;
+    }
+
+</style>
+
+  <footer>
+  <hr/>
+  <div class="just">
+    <small>
+     Contact List. Todos os direitos reservados.
+    </small>
+
+  <nav>
+    <ul>
+      <li>
+       <%= link_to 'Sobre', sobre_path %>
+      </li>
+      <li>
+     <%= link_to 'Contato', contato_path %>
+      </li>
+    </ul>
+  </nav>
+
+  </div>
+
+</footer>
